@@ -1,0 +1,17 @@
+.myContainer{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+  }
+  .myContainer img{
+    width: 700px;
+    height: 400px;
+  }
+
+  body{
+    background-image: url(./assets/forest.avif);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background-size: 100% 100%;
+    height: 100vh; */
+  }
